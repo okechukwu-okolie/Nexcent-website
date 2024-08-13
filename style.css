@@ -7,10 +7,10 @@
 
         /* <!--  this is the logo, navigation and hero section --> */
 .container{
-    /* width: 1440px; */
+    width: 1440px;
 }
 .section1{
-    /* width: 1440px;         */
+    width: 1440px;        
     padding-top: 30px;
     background-color: #F5F7FA;
 }
